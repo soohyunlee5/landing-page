@@ -1,0 +1,13 @@
+.body {
+    font-family: "Roboto";
+}
+
+.header {
+    background-color: #1F2937;
+    display: flex;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
